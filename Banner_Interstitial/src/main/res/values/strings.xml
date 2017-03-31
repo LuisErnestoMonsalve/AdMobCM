@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MobileAds</string>
+    <string name="title_activity_ad">AdActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2496422086428451/8254577329</string>
+    <string name="bannerON">ca-app-pub-2496422086428451/6219440925</string>
+    <string name="video">ca-app-pub-2496422086428451/7416972521</string>
+</resources>

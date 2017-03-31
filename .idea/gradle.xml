@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Banner" />
+            <option value="$PROJECT_DIR$/BannerDFP" />
+            <option value="$PROJECT_DIR$/Banner_Interstitial" />
+            <option value="$PROJECT_DIR$/Interstitial" />
+            <option value="$PROJECT_DIR$/InterstitialTimer" />
+            <option value="$PROJECT_DIR$/NativeAdvanced" />
+            <option value="$PROJECT_DIR$/NativeExpress" />
+            <option value="$PROJECT_DIR$/RewardedVideo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

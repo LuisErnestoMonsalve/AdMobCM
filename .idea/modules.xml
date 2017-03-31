@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdMob.iml" filepath="$PROJECT_DIR$/AdMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banner/Banner.iml" filepath="$PROJECT_DIR$/Banner/Banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BannerDFP/BannerDFP.iml" filepath="$PROJECT_DIR$/BannerDFP/BannerDFP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banner_Interstitial/Banner_Interstitial.iml" filepath="$PROJECT_DIR$/Banner_Interstitial/Banner_Interstitial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interstitial/Interstitial.iml" filepath="$PROJECT_DIR$/Interstitial/Interstitial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterstitialTimer/InterstitialTimer.iml" filepath="$PROJECT_DIR$/InterstitialTimer/InterstitialTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileAds.iml" filepath="$PROJECT_DIR$/MobileAds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NativeAdvanced/NativeAdvanced.iml" filepath="$PROJECT_DIR$/NativeAdvanced/NativeAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NativeExpress/NativeExpress.iml" filepath="$PROJECT_DIR$/NativeExpress/NativeExpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RewardedVideo/RewardedVideo.iml" filepath="$PROJECT_DIR$/RewardedVideo/RewardedVideo.iml" />
+    </modules>
+  </component>
+</project>

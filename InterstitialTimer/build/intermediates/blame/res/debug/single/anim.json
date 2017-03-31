@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/export/estudiantes/ernesto.monsalve/Escritorio/AdMob/InterstitialTimer/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/export/estudiantes/ernesto.monsalve/.android/build-cache/f9c1d87047adbc8983d51f45f9669497622d9078/output/res/anim/abc_fade_out.xml"
+    }
+]
